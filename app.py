@@ -247,4 +247,4 @@ fig3.tight_layout()
 st.pyplot(fig3)
 
 st.markdown("---")
-st.caption("Desenvolvido com ❤️ usando Streamlit, Sympy, Control e Matplotlib.")
+st.caption("Desenvolvido com ❤️ usando Streamlit, Sympy, Control e Matplotlib. Thiago Marcondes @2025")
